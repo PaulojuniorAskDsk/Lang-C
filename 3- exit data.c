@@ -1,10 +1,10 @@
-//exit data
+//saida de dados
 #include <stdio.h>
 
 int main()
 {
     int a = 10;
-    printf("a = %d\n", a);//specifies the format of the output, %d is used to print an integer value, and \n is used to move to the next line after printing the value of a.
+    printf("a = %d\n", a);//os especificadores de formato são usados para indicar o tipo de dado a ser impresso. Eles começam com o símbolo % seguido por um caractere que representa o tipo de dado. Aqui estão alguns dos especificadores de formato mais comuns:
 
     //list specifies
     /*%d -> int
